@@ -1,7 +1,5 @@
 {
   "name": "A8 AI Ecosystem Token List",
-  "logoURI": "https://a8ai.io/logo.png",
-  "timestamp": 1750950732000,
   "tokens": [
     {
       "chainId": 1,
@@ -12,9 +10,11 @@
       "logoURI": "https://a8ai.io/logo.png"
     }
   ],
+  "logoURI": "https://a8ai.io/logo.png",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
-  }
+  },
+  "timestamp": 1750950732000
 }
